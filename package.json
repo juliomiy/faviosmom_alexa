@@ -12,6 +12,7 @@
     "alexa-app": "^2.3.4",
     "chai": "^3.5.0",
     "chai-as-promised": "^6.0.0",
+    "config": "^1.21.0",
     "lodash": "^4.16.4",
     "mocha": "^3.1.2",
     "request": "^2.75.0",
